@@ -3,5 +3,5 @@
 
 
 
-###参考
+###API
 - https://github.com/tan-tan-kanarek/github-php-client
